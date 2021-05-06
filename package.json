@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.1.5",
+  "description": "this is my server page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sttar vipin rao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
